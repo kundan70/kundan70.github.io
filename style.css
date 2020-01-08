@@ -26,10 +26,8 @@ img{
 }
 #total{
     padding:20px;
-    background-color: rgba(17, 139, 196, 0.425);
-    color:white;
+    color:black;
     font-family: fantasy;
-    border:2px black solid;
     
 }
 nav{
